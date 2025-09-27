@@ -1,8 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
 
 :root {
-  --primary-blue: #4338CA;
-  --primary-blue-light: #6366F1;
+  --primary-blue: #4F46E5;
+  --primary-green: #10B981;
   --background-color: #F8FAFC;
   --sidebar-border: #E2E8F0;
   --card-background: #FFFFFF;
@@ -11,10 +11,7 @@
   --text-light: #94A3B8;
   --tag-background: #F1F5F9;
   --tag-border: #E2E8F0;
-  --dashboard-grad-start: #3B82F6;
-  --dashboard-grad-end: #1D4ED8;
-  --green-accent: #16A34A;
-  --purple-accent: #9333EA;
+  --purple-accent: #A855F7;
 }
 
 body {
